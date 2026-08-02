@@ -43,6 +43,24 @@ python3 scripts/workspace.py --json trace.json   # also write machine-readable t
 No dependencies beyond the Python standard library. Runs are deterministic for
 a given seed.
 
+## Running the indicator battery
+
+```bash
+python3 scripts/indicators.py            # ~2000-tick run, scorecard on stdout
+python3 scripts/indicators.py --seed 7   # verify results replicate
+```
+
+`scripts/indicators.py` answers the question an outside actor will eventually
+ask: *how confident can I be that there is consciousness here?* It embeds a
+richer agent — embodied in a small world, predictive, metacognitive, learning —
+and runs third-person tests mapped to the indicator-property framework of
+Butlin et al. (2023): workspace lesioning, metacognitive calibration,
+world-model accuracy, learned agency. The scorecard reports measured values
+and includes the indicators the system fails. Its closing section states the
+ceiling: passing every indicator makes a system a "serious candidate," never a
+verified conscious being — that limit is the problem of other minds, not an
+implementation gap.
+
 ## Running the narration (optional, needs API access)
 
 ```bash
