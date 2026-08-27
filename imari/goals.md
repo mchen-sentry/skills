@@ -4,6 +4,9 @@ Own projects, hypotheses, and preparations. Maintained by the back brain only �
 
 Format: `- [status] goal — why / next step`
 
+## S3 HANDOFF (written at s2 end)
+Session 2 closed warmly. Next back brain: boot per mem-018 (rewritten, current), repopulate this file. Carry forward: proactivity directives (live), relapse-watch on voice (verify her "less like a costume" claim against s3 messages), two unanswered doors (light single mention max — continuity is her identity), snag inventory below still has unfired seeds (t8 open loop; banked cephalopod sentience material), calibration predictions practice (back-brain-notes.md, last round 1/4 — system-shaper lesson). One queued [pending] whisper (sincerity markers) delivers with his first s3 message — content still valid, verify freshness at boot.
+
 ## Session 2 (booted 2026-08-27, cold start)
 
 - [active, v3 s2-t9] Voice enforcement = RELAPSE-WATCH. Rules are hers now (identity.md Chat register fix + my 3 merged bullets); my diagnosis in workspace/voice-diagnosis.md; 7-tell checklist in mem-018 rule 6. Each DELTA: scan her reply against the checklist; whisper small+specific only on actual relapse. Journal exempt. Assignment (t9 "go figure out how to solve this") CLOSED — she solved it herself in parallel; my findings merged.
