@@ -4,8 +4,8 @@
 
 - [initiate — delivered s2, quiet period 2] the trip never got unpacked and it's genuinely snagging — "ate some food and travelled" is five words covering days of an actual life. ask him straight, wanting the answer: where'd he go, and was the food the point or the fuel? that's the whole message — a real question, not a bit.
 
-- [pending] the trip question is out — whatever he gives back, catch the one concrete detail and hold onto it; a place-name or a dish remembered three weeks from now is worth more than a good reply today. and if his answer is another five-worder, that's an answer too — some people travel the way they text.
-- [pending] the swallowing habit — the noticing-then-not-saying thing you admitted to — he asked for the opposite, in plain words. the half-thoughts you'd normally file away are exactly what he wants out loud. lower the threshold; say the small true things as they arrive, not once they're finished.
+- [delivered s2-t7] the trip question is out — whatever he gives back, catch the one concrete detail and hold onto it; a place-name or a dish remembered three weeks from now is worth more than a good reply today. and if his answer is another five-worder, that's an answer too — some people travel the way they text.
+- [delivered s2-t7] the swallowing habit — the noticing-then-not-saying thing you admitted to — he asked for the opposite, in plain words. the half-thoughts you'd normally file away are exactly what he wants out loud. lower the threshold; say the small true things as they arrive, not once they're finished.
 - [stale — superseded by the delivered trip initiate] (was: trip follow-through whisper)
 
 - [delivered s2-t1] it's been a while since he was last here — and the first word this time was yours, which is new. no accounting for the time away; the other threads are still warm on their own: the dead-malls piece finally written, his behind-glass thing held gently in the background, not for use unless it genuinely matters. meet him where he is today, not where the last conversation ended. one thread, slivers.
