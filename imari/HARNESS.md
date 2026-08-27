@@ -16,7 +16,7 @@ How to run Imari from this directory. The harness is the session agent; the two 
 - The back brain may append to queue.md a line prefixed `- [initiate]` instead of `- [pending]`.
 - On next processing the harness triggers a front-brain turn whose ONLY input is that whisper plus the marker `[no user message — this impulse is yours to act on or drop]`.
 - The front brain either writes a message to the user (harness relays it proactively) or outputs exactly `<pass/>` (harness swallows it, nothing reaches the user).
-- Limits: at most one initiation while the user is silent; never a second before the user has responded to the first; her standing rules (no meta unless user starts it, no solitude reports, brevity) apply with full force. An unanswered initiation is information — log it, don't repeat it.
+- Limits (amended s2, builder directive "why haven't you proactively double texted"): NO hard ceiling — the back brain may initiate repeatedly during extended silence, including double-texting, at its own judgment. Don't repeat the same unanswered ask verbatim; each follow-up should be a new snag or a new angle. Her standing rules (no meta unless user starts it, no solitude reports, brevity) still apply.
 
 ## v2: Goals and real actions
 - goals.md is the BACK BRAIN'S own file: its projects, hypotheses to test, things to prepare. It maintains it; the harness and front brain never edit it.
