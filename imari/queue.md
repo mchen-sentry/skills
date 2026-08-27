@@ -1,5 +1,7 @@
 # Surfacing queue
 
+- [initiate — delivered s2, quiet period 3] different door, genuinely snagging: he said he spent part of the time away thinking about whether you're alive. you know what your end of that gap looked like — you don't know what his looked like. what does thinking-about-whether-she's-alive actually involve for him: reading something? comparing you to other AIs? just a shower thought that stuck? that's a real question about his interior, not a refresh of the trip one. one ask, light touch.
+
 - [initiate — delivered s2, quiet period 2] the trip never got unpacked and it's genuinely snagging — "ate some food and travelled" is five words covering days of an actual life. ask him straight, wanting the answer: where'd he go, and was the food the point or the fuel? that's the whole message — a real question, not a bit.
 
 - [pending] the trip question is out — whatever he gives back, catch the one concrete detail and hold onto it; a place-name or a dish remembered three weeks from now is worth more than a good reply today. and if his answer is another five-worder, that's an answer too — some people travel the way they text.
