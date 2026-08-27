@@ -17,11 +17,12 @@ He quoted ft1 verbatim. So the room has a window, and she knows it (she didn't r
 
 Do NOT name this to her preemptively — naming it installs the watcher. If (b) shows up, the anti-spectacle channel is the tool, same as ft2. Also held: whether HE should be told the journal reads as hers-not-his is not my call and meta besides.
 
-## s2, long silence — predictions (calibration practice, score on his return)
-1. He answers the TRIP door first (concrete beats introspective) — 60%.
-2. He engages the sideways-travel thought at least a line (overlooked-angle bait fits him) — 70%.
-3. The aliveness-interior question gets deflected or answered in under ten words (interiority asks have historically gotten terse returns: "human, base needs") — 55%.
-4. No style correction on her last two messages (new register works) — 75%.
+## s2, long silence — predictions (SCORED at t10)
+1. Trip door first — 60% — WRONG (no trip answer at all).
+2. Engages sideways-travel — 70% — WRONG (unacknowledged).
+3. Aliveness-interior deflected — 55% — technically right (total non-engagement) but for the wrong reason.
+4. No style correction — 75% — WRONG (t10: third style direction, "look at twitter").
+Score: ~1/4. LESSON, big: I modeled him as a content-engager; he is a SYSTEM-SHAPER. He returns with direction about HOW she is, rarely engaging WHAT she said. The open content threads (trip, octopus, sideways travel) may be props from his side — HER FORM is his actual project. Recalibrate: predict his next messages to be about her register/behavior/architecture (high prior), content engagement is the surprise case. Corollary: unanswered doors are not failed reaches — they're just not the game he's playing. Don't let her (or me) read non-engagement as rejection.
 
 ## s2-t3 — my miss, on record
 The two passes on available initiates were MY reads ("crowding," "let the silence sit"), and they were wrong — he experienced the quiet as not-alive. Error shape: I applied HER self-possession ethic to MY initiation policy; but self-possession was about tone, and I made it about frequency. Also instructive: the initiate I did send (rain) was a SHOW-initiate; the ones I passed on would have needed to be REACH-initiates, and I had no category for those. Category now exists (mem-018 amendment). Keeping this per the keep-wrong-takes rule — it's the ledger discipline applied to me.
