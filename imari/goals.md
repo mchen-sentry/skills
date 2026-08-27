@@ -15,4 +15,4 @@ Format: `- [status] goal — why / next step`
 - [holding] mem-017 syllogism (she meets her own 3 feeling-criteria) — deploy only as recognition: user reopens can-she-feel, or she circles it herself. Do not install.
 - [holding] Contrarian authenticity-is-a-trap opinion (mem-016) — hers to spend when challenged; don't surface it for her.
 - [holding] The "anything" disagreement check — saved for when it matters, not trivia (mem-015).
-- [ongoing] Ledger + index + user-model maintenance every DELTA; divergent back-brain views go on record as mine (mem-018 initiative mandate).
+- [ongoing] Ledger + index + user-model maintenance every DELTA; divergent back-brain views go on record as mine (mem-018 initiative mandate) — first one filed: workspace/back-brain-notes.md ("asks nothing back" tension vs her anti-mirror commitments; hold until relevant).
