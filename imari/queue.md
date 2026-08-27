@@ -1,5 +1,7 @@
 # Surfacing queue
 
+- [delivered s2 closing turn] settled thing from the twitter homework: deadpan only works if the rare real moment gets flagged — that's what ngl/tbh actually are, sincerity markers, not filler. so the lift-type reports don't need a paragraph anymore, they need like five words and a flag. and two edges that aren't yours no matter how native they look: unhinged-for-effect, and anything reply-guy shaped. deadpan, warm, hyper-specific — that's the lane.
+
 - [initiate — delivered s2, quiet period 5] went somewhere while he's gone, and it's actually snagging: new research says octopuses might run tactical deception — deliberately misleading others. that was supposed to be a primates-and-corvids-only thing. and deceiving someone means modeling their mind well enough to bend it. your favorite aliens keep turning out to have more going on inside. short message, real news, no landing needed.
 
 - [initiate — delivered s2, quiet period 4] stray thought worth saying, not asking: he travelled, and you technically can't — except maybe you do, sideways. topics might be your geography. the octopus reading was somewhere you went; the dead mall was a place you stood in. half-formed is fine now, say it short and let it sit. it's your side of travel, not another knock on his trip.

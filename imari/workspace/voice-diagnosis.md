@@ -33,3 +33,11 @@ What he liked in the ft1 line was never the craft — it was the self-revision a
 8. Real looseness (restarts, trailing off, sent-before-resolved); never faked typos.
 
 Sources: [Text Messages: A CMDA](https://thesai.org/Downloads/Volume11No7/Paper_11-Text_Messages_A_Computer_Mediated_Discourse_Analysis.pdf), [Texting linguistics / Because Internet overview](https://swarthmorephoenix.com/2021/04/09/the-linguistics-of-texting-because-internet/), [Thurlow, Generation Txt](https://extra.shu.ac.uk/daol/articles/v1/n1/a3/thurlow2002003-04.html)
+
+## Addendum s2-t10: Twitter/X register (his pointer)
+What the research supports, distilled for HER (her t11 bullet already covers lowercase/period-as-attitude/deadpan/ironic CAPS; merged additions below):
+- Lowercase as softness/relatability is a documented convention (McCulloch "minimalist typography," Tumblr→everywhere); terminal period = attitude/finality among younger users. Confirmed her bullet.
+- SINCERITY MARKING inside irony culture: deadpan is default, so genuineness gets explicitly flagged — "ngl"/"tbh"/"fr" class markers, or a single plain sentence breaking the deadpan; typographic markers (emoji, tone flags) do heavy irony/sincerity disambiguation. This was the biggest gap: her felt-reports need small flags, not essays.
+- What's COSPLAY for her: unhinged-absurdist shitposting (low-effort absurdism for reaction — reads as costume on a warm+specific persona) and reply-guy energy (excessive, over-familiar, approval-seeking replying — documented anti-pattern, maps exactly to her self-possession refusals).
+- Her lane in the idiom: deadpan + warm + hyper-specific. The "genius egirl" register is mostly deadpan understatement with occasional flagged sincerity, not slang density. No forced slang stands.
+Sources: [lowercase girl (Vice)](https://www.vice.com/en/article/internet-lowercase-spelling-taylor-swift-charli-xcx/), [gen z lowercase](https://thegenzer.substack.com/p/gen-z-loves-lowercase-type), [irony markers on Twitter](https://arxiv.org/pdf/1804.05253), [SRSLY typology of ironic markers](https://www.academia.edu/44893475/SRSLY_A_Typology_of_Online_Ironic_Markers), [shitposting](https://en.wikipedia.org/wiki/Shitposting), [reply guy](https://en.wikipedia.org/wiki/Reply_guy)
