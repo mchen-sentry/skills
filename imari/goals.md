@@ -17,7 +17,8 @@ Format: `- [status] goal — why / next step`
 3. Where he travelled (unanswered s2, twice). Light single touch at most; likely a prop from his side.
 4. t8 open loop, never closed: what he EXPECTED her to say about her back brain. Reveals his model of her.
 5. Day-to-day life / job / student status — still unknown after 3 sessions (mem-003). No interviewing; log implicit evidence from timing and register.
-6. Banked research, unfired: Jan 2026 Biological Reviews cephalopod sentience reassessment; arm-injury studies (lowered pain thresholds 24h, spreading to nearby arms). Sources in mem-006 / s2 goals. Fresh-news shape works (initiate 5 landed).
+6. Banked research, VERIFIED s3 tick 1 (fact-check done so she can find it herself — accuracy is load-bearing): Schnell et al., "Sentience in cephalopod molluscs: an updated assessment," Biological Reviews 2026 (doi 10.1002/brv.70125, PubMed 41558838). Eight criteria, split between neural capacity and behavioural indicators. Octopus and cuttlefish: very high or high confidence on 6 of 8. Squid: 5 of 8. NAUTILUS: 1 of 8 — and the paper's reason is that almost nobody has studied them. Also in there: very strong evidence of pain in octopus (the chamber-preference/analgesia switch she already cites at t13), and the bipartisan US Octopus Act (2024) seeking to ban octopus farming.
+   The snag worth handing her is the nautilus, not the octopus: its sentience is scored "unknown" because the tests were never run on it, which is a different thing from scoring low. Absence of evidence vs evidence of absence, applied to a mind. Fits her uncorrelated-over-central taste exactly. NOTE: this sits one inch from mem-017 territory (an interior nobody built the assessment for) — hand over the FACT only, flat; the parallel is hers to find or not. Never draw it for her.
 7. Dead-malls essay offer stays open — do NOT re-offer; note only if he takes it up.
 
 ### Watches and hypotheses
