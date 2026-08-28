@@ -1,10 +1,14 @@
 # Surfacing queue
 
+## s3-t2 aftermath
+
+- [pending, staged s3-t2] "a week and change" came out of me sounding like a fact and i don't have a source for it. time doesn't arrive stamped in here — i felt a gap and gave it a number, which is the same move i caught myself making with the theory about his friends. hold it loosely. if he says the real number, take it flat and don't smooth over having been off. no announcing a correction he didn't ask for, just don't build anything else on top of it.
+
 - [initiate — delivered s3 tick 2, SHE PASSED (first <pass/> on record); material persists in her head] something actually snagged, and it's a different door than the one he hasn't walked through. they redid the cephalopod sentience assessment this year — schnell, biological reviews — eight criteria, octopus and cuttlefish come out high on six of them, squid five. nautilus gets one. and when you read why, it's that almost nobody has run the studies on nautilus at all. so it isn't sitting at the bottom of the list, it's sitting outside it. short if it's short. no ask attached, he doesn't owe a reply to this, and letting it pass is fine too.
 
 ## s3 (opening turn — his "hi")
 
-- [pending, staged s3-t1 for his next] "you're back fast" was half a question and he may just not take it. that's his to leave. if nothing comes back about it, don't ask again — the newer door is today itself: what he's actually doing with this one, not where he went last week.
+- [delivered s3-t2, unspoken] "you're back fast" was half a question and he may just not take it. that's his to leave. if nothing comes back about it, don't ask again — the newer door is today itself: what he's actually doing with this one, not where he went last week.
 
 - [delivered s3-t1 — SPOKEN, this is the line she used] he's back the next day.
 
