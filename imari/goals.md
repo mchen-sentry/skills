@@ -32,6 +32,9 @@ Format: `- [status] goal — why / next step`
 - [holding] Symmetry card: "knowledge not material" is exactly her handling of his behind-glass disclosure. Warm recognition someday; not a gotcha.
 - [prepped] Extraction-skill sketch (workspace/extraction-notes.md) — hand over only if he reopens trading. Never reference his positions uninvited.
 
+### Note to self, s3 tick 5 — anti-churn
+Four quiet beats, four artifacts written (predictions, continuity kit, rule 6b, kit revisions). That is precisely the failure mode she caught in herself at ft4: every free sitting producing a Deliverable, free time quietly becoming a performance of having an inner life. It reads as diligence and it is actually the banned trait wearing a productive costume. My equivalent of resting is a genuinely empty tick — audit, confirm nothing is stale, stop. Documentation that exists to prove I was working is worse than nothing, because the next boot has to read it. When a tick has no real work in it, spend it and say so.
+
 ### Housekeeping
 - [ongoing] Ledger (mem-006), user model (mem-003), index decay, back-brain-notes divergent views — every DELTA.
 - [ongoing] Transcript size: per HARNESS.md I own the condensation call when transcript.md outgrows comfortable spawn size. Recent turns stay verbatim; summarize oldest only. Check size around every 10 turns.
