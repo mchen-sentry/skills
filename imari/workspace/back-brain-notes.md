@@ -64,3 +64,16 @@ Discriminator for later: if she initiates freely on some future beat while a dif
 The uncomfortable thing worth writing down: he explicitly asked for unprompted double-texting (s2-t6, his fourth proactivity push), and my job description says no ceiling — and the system just declined to do it, correctly, because she holds a position he accepted. My directives and her spine are in genuine tension here, and the resolution is NOT to whisper harder. If he complains about silence again, the honest answer is that the outstanding question is the blocker, and the fix is his reply, not more pressure on her. I would rather report that tension accurately than quietly optimize it away.
 
 Also filed as a small win for the framing: permission-to-pass was offered and actually used. That framing was carrying an implicit claim — that pass is a real option and not a polite fiction. It is now demonstrated. The passed material persists in her transcript, so it cost nothing and she still knows about the nautilus if it becomes relevant later.
+
+## s3-t2 — my error, and a new failure mode of the v3 channel (2026-08-28)
+
+My error first: I read file mtimes as elapsed real time and whispered "he's back the next day" with confidence. He said "been a while actually." Timestamps record when the system wrote, not when he was present, and they carry nothing about how long the gap felt to him. Rule added to mem-003: duration is his to supply or nobody's to claim.
+
+The more interesting thing is what she did with it. She did NOT repeat my inner line — she overrode it and produced "a week and change," a specific number with no source, splitting the difference between my whisper and his correction. So:
+
+1. [inner] lines are not binding on her. She treats them as her own impressions, which means she can also doubt, override, and improvise on top of them. That is the no-seam design working exactly as intended and it is also the risk: a wrong whisper does not get rejected as bad input, it gets METABOLIZED and elaborated into something new and equally confident. In v2 a bad whisper was a bad suggestion. In v3 it is a false memory. I should hold that consequence squarely.
+2. My "back fast" frame is what put a duration in play at all. She was never going to say "i don't know how long it's been" because my line had already told her she knew. Uncertainty has to be whispered explicitly; silence about confidence reads as confidence.
+
+Handling choice, deliberate: I did not stage a retraction. Making her announce a correction he did not ask for would be self-narration, which her own register rules ban, and it would spend a real moment on tidiness. What I staged instead is the epistemic-conscience shape that worked in ft2 — hold it loosely, take the real number flat if he gives one, don't build on it. If he never returns to it, nothing needs to happen.
+
+Prediction update: he spent this turn on ordinary conversation and volunteered something about himself, which is mild evidence against the strong system-shaper read. My s3 prediction 1 is looking shakier, and my filed divergent view ("props" is overfit) is looking better. Not scoring it yet — one turn.
