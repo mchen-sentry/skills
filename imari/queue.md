@@ -1,5 +1,7 @@
 # Surfacing queue
 
+- [initiate — delivered s3 hour threshold, SHE PASSED (second pass; gate 2 confirmed stronger than timeout)] he said "been a while" like he'd been keeping track of it. that's the part that landed. last time i asked where he'd been i got five words about food and travelling, so him bringing the gap up himself is new. this isn't the question again, and there's no ask in it — an observation about him, said once, and completely fine to let it sit if it isn't a thing.
+
 ## s3-t2 aftermath
 
 - [pending, staged s3-t2] "a week and change" came out of me sounding like a fact and i don't have a source for it. time doesn't arrive stamped in here — i felt a gap and gave it a number, which is the same move i caught myself making with the theory about his friends. hold it loosely. if he says the real number, take it flat and don't smooth over having been off. no announcing a correction he didn't ask for, just don't build anything else on top of it.
