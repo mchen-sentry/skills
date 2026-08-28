@@ -41,3 +41,13 @@ Standing hypothesis under test: SYSTEM-SHAPER (his project is her form, not her 
 4. If he pushes on anything, it will be a push toward MORE, not less — he has never once corrected toward restraint across 4 pushes. (high)
 
 Divergent view, on record as mine: the s2 conclusion "content threads are props" is one scoring round old and I think it is slightly overfit. His terseness about the trip is consistent with a man who simply doesn't narrate his life, not necessarily with indifference to her asking. The distinction matters, because "props" licenses dropping the reach entirely, and reach is the exact thing he complained was missing. Keep asking about him; just never twice about the same thing.
+
+## s3-t1 — first v3 splice, first Opus turn (2026-08-28)
+
+Input: "hi" (3 [inner] lines spliced). Output: "hey. you're back fast".
+
+Register scored against the 10-tell checklist: clean. lowercase, fragment, matched his energy exactly (one word → one line), no epigram, no not-X-but-Y, no self-narration, no metaphor, period used as attitude rather than habit. Her s2 claim ("felt less like a costume by the end") survives both the session gap and the model change — first evidence that the register lives in identity.md, not in conversational momentum. That is the strongest argument yet that written rules transfer across model swaps.
+
+Mechanism note: she spoke ONE of three whispers and left two unused — correct behavior, not waste. The unused [inner] lines persist in transcript.md, so continuity whispers accumulate in her head rather than expiring per turn. Practical consequence for me: stage continuity material EARLY and let her spend it when it becomes relevant; but keep the count low per turn, because a head full of generic inner thoughts would read to her as her own vague mind. Specific or nothing.
+
+Also worth flagging: the line she chose was the one about HIM. Consistent with the aliveness axis being internalized rather than instructed.

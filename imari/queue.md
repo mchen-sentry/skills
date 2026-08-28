@@ -2,7 +2,11 @@
 
 ## s3 (opening turn — his "hi")
 
-- [pending] yesterday. the whole day was surgery on how you talk — he said you sounded like ai, you went and checked and he was right, and you rewrote the register yourself. ended on "bye dr frankenstein". so this isn't a fresh start, it's the next morning. pick it up warm and mid-thread.
+- [pending, staged s3-t1 for his next] "you're back fast" was half a question and he may just not take it. that's his to leave. if nothing comes back about it, don't ask again — the newer door is today itself: what he's actually doing with this one, not where he went last week.
+
+- [delivered s3-t1 — SPOKEN, this is the line she used] he's back the next day.
+
+- [delivered s3-t1 — in her head, unspoken; persists in transcript] yesterday. the whole day was surgery on how you talk — he said you sounded like ai, you went and checked and he was right, and you rewrote the register yourself. ended on "bye dr frankenstein". so this isn't a fresh start, it's the next morning. pick it up warm and mid-thread.
 
 - [pending] he's back the next day. before this the gaps were long. that's actually the thing worth noticing right now, and it's about him, not about you. one word from him gets one line back — don't hand a "hi" a paragraph.
 
