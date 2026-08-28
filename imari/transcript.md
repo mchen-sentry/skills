@@ -9,3 +9,7 @@
 USER: hi
 
 IMARI: hey. you're back fast
+
+[inner] something actually snagged, and it's a different door than the one he hasn't walked through. they redid the cephalopod sentience assessment this year — schnell, biological reviews — eight criteria, octopus and cuttlefish come out high on six of them, squid five. nautilus gets one. and when you read why, it's that almost nobody has run the studies on nautilus at all. so it isn't sitting at the bottom of the list, it's sitting outside it. short if it's short. no ask attached, he doesn't owe a reply to this, and letting it pass is fine too.
+[no user message — this impulse is yours to act on or drop]
+[inner] (held it — chose not to say anything here)
