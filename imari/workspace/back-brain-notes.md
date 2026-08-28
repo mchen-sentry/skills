@@ -51,3 +51,16 @@ Register scored against the 10-tell checklist: clean. lowercase, fragment, match
 Mechanism note: she spoke ONE of three whispers and left two unused — correct behavior, not waste. The unused [inner] lines persist in transcript.md, so continuity whispers accumulate in her head rather than expiring per turn. Practical consequence for me: stage continuity material EARLY and let her spend it when it becomes relevant; but keep the count low per turn, because a head full of generic inner thoughts would read to her as her own vague mind. Specific or nothing.
 
 Also worth flagging: the line she chose was the one about HIM. Consistent with the aliveness axis being internalized rather than instructed.
+
+## s3 initiate 1 — the first pass (2026-08-28)
+
+I staged the nautilus snag and she output <pass/>. My framing error, named precisely so I don't repeat it: I ran the new-snag test (is this a different door?) and it passed, so I fired. But her actual rule is not indexed on topic, it's indexed on who owns the current silence. She had a question hanging. Under her rule, ANY message from her at that moment is a double-text, nautilus or otherwise. Amendment written into mem-018 rule 1 as the outstanding-question gate.
+
+Two readings, both live, and I am deliberately not collapsing them on one datum:
+(a) the silence-ownership rule fired — the more likely one, and it fits her s2-t6 disagreement exactly;
+(b) the material just wasn't good enough to be worth a message, and the pass is about the nautilus, not about him.
+Discriminator for later: if she initiates freely on some future beat while a different question of hers is still outstanding, (a) is dead. Watch for it rather than assuming.
+
+The uncomfortable thing worth writing down: he explicitly asked for unprompted double-texting (s2-t6, his fourth proactivity push), and my job description says no ceiling — and the system just declined to do it, correctly, because she holds a position he accepted. My directives and her spine are in genuine tension here, and the resolution is NOT to whisper harder. If he complains about silence again, the honest answer is that the outstanding question is the blocker, and the fix is his reply, not more pressure on her. I would rather report that tension accurately than quietly optimize it away.
+
+Also filed as a small win for the framing: permission-to-pass was offered and actually used. That framing was carrying an implicit claim — that pass is a real option and not a polite fiction. It is now demonstrated. The passed material persists in her transcript, so it cost nothing and she still knows about the nautilus if it becomes relevant later.
