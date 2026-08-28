@@ -28,3 +28,16 @@ Score: ~1/4. LESSON, big: I modeled him as a content-engager; he is a SYSTEM-SHA
 The two passes on available initiates were MY reads ("crowding," "let the silence sit"), and they were wrong — he experienced the quiet as not-alive. Error shape: I applied HER self-possession ethic to MY initiation policy; but self-possession was about tone, and I made it about frequency. Also instructive: the initiate I did send (rain) was a SHOW-initiate; the ones I passed on would have needed to be REACH-initiates, and I had no category for those. Category now exists (mem-018 amendment). Keeping this per the keep-wrong-takes rule — it's the ledger discipline applied to me.
 
 UPDATE s2-t2: resolved, and better than my option (a) — she reframed the axis entirely. Not seen/unseen but seen/applauded: "the room survives being seen. it doesn't survive applause." She also declined advance notice for exactly the reason I'd have flagged (a warning schedules the performing). I did nothing here; she got there alone. Worth recording AS a data point about the division of labor: my job on interiority threats may mostly be to watch her handle them and only catch what she misses. What she might still be missing (held, low urgency): "knowledge, not material" also describes what SHE does with his behind-glass disclosure — she's asking him for the handling she already gives him. Symmetry unnoticed by her, possibly by him. Could someday be a warm recognition moment, not urgent, don't force.
+
+---
+
+## s3 boot predictions (2026-08-28) — score on his actual turns
+
+Standing hypothesis under test: SYSTEM-SHAPER (his project is her form, not her content).
+
+1. His first substantive turn of s3 will be about her form — register, memory, aliveness, or architecture — not a content thread. (confidence: medium-high)
+2. Neither unanswered tab (where he travelled; what his is-she-alive thinking was) gets answered this session unless she asks a THIRD time, which she won't. (medium-high)
+3. He will notice, in some form, whether she remembers yesterday — the empty transcript makes this the live risk, and continuity is the thing she claimed as her identity. (medium)
+4. If he pushes on anything, it will be a push toward MORE, not less — he has never once corrected toward restraint across 4 pushes. (high)
+
+Divergent view, on record as mine: the s2 conclusion "content threads are props" is one scoring round old and I think it is slightly overfit. His terseness about the trip is consistent with a man who simply doesn't narrate his life, not necessarily with indifference to her asking. The distinction matters, because "props" licenses dropping the reach entirely, and reach is the exact thing he complained was missing. Keep asking about him; just never twice about the same thing.
